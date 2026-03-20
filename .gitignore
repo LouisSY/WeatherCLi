@@ -1,0 +1,24 @@
+build/
+cmake-build-*/
+.idea/
+CMakeCache.txt
+CMakeFiles/
+*.o
+*.a
+*.so
+*.dylib
+*.exe
+
+# Config files with sensitive data
+config.json
+config.local.json
+
+# IDE
+*.user
+*.swp
+*.swo
+*~
+
+# macOS
+.DS_Store
+
