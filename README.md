@@ -8,15 +8,6 @@ A cross-platform desktop weather application built with **Qt 6 QML UI** and **C+
 
 **WeatherCLi** is a simple yet fully-featured weather query application that allows users to easily check real-time weather information for any city in the world.
 
-### Core Features
-
-- ✅ **Enter City Name** - Support any city worldwide
-- ✅ **Real-time Weather Data** - Display temperature, weather description, humidity, and wind speed
-- ✅ **Cross-platform** - Support Windows, macOS, and Linux
-- ✅ **No API Key Needed!** - Uses completely free Open-Meteo API
-- ✅ **Responsive UI** - Modern interface based on Qt Quick/QML
-- ✅ **Error Handling** - Comprehensive network and API error messages
-- ✅ **Fast Query** - Asynchronous network requests without blocking the UI
 
 ### Technology Stack
 
