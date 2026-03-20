@@ -82,7 +82,7 @@ cmake --build cmake-build-debug -j 4
 └─────────────────────────────────┘
 ```
 
-## ⚙️ 配置 API Key (可选)
+## 配置 API Key (可选)
 
 > **注意**: 本应用需要使用 OpenWeatherMap API，可以在官网免费获得。请按以下步骤配置：
 
@@ -128,7 +128,7 @@ cmake --build cmake-build-debug -j 4
 - **原因**: Qt 库缺失或版本不兼容
 - **解决**: 确保已安装 Qt 6 的所有必需模块
 
-## 📁 项目结构
+## 项目结构
 
 ```
 WeatherCLi/
